@@ -5,16 +5,17 @@
 <div align=center><h3>👩🏻‍💼 IT'S ME! 👩🏻‍💼</h3></div>
 
 <div align=center>
-안녕하세요, 새로운 가치를 만드는 풀스택 개발자 <strong>조연희</strong>입니다!<br>
-사용자의 경험을 최우선으로 생각하며, 프론트와 백엔드 모두에 열정을 가지고 있습니다.<br>
-하루하루 즐기며, 더 나은 내가 되기 위해 꾸준히 노력하고 있습니다.<br>
+안녕하세요, 사용자 중심의 더 나은 경험을 설계하는 풀스택 개발자 <strong>조연희</strong>입니다!<br>
+요청부터 서버와 DB까지 이어지는 전체 처리 흐름을 바탕으로,<br> 안정적인 백엔드 시스템과 직관적인 UI/UX를 균형 있게 구현하는 과정에 큰 열정을 가지고 있습니다.<br>
+실제 운영 과정의 문제를 구조적으로 분석하여 개선하며,<br> 깔끔한 코드와 최적화된 설계를 통해 서비스의 기술적 가치를 높이기 위해 꾸준히 노력하고 있습니다.
 <br>
 -- <br>
 <br>
-Hi, I'm Yeonhee,<br>  
-a full-stack developer who creates meaningful value through code.<br>
-I prioritize user experience and am passionate about both frontend and backend development.<br>
-Each day, I enjoy what I do and strive to become a better version of myself.
+Hello, I'm Yeonhee, a Full-Stack Developer dedicated to designing better user experiences.<br>  
+I am passionate about balancing stable backend systems with intuitive UI/UX,<br> 
+grounded in a deep understanding of the entire data flow from requests to servers and databases.<br>  
+I focus on structurally analyzing and resolving real-world operational issues,<br> 
+and I am committed to enhancing the technical value of services through clean code and optimized architecture.<br>  
 </div>
 
 <br><br><br>
@@ -134,3 +135,83 @@ Each day, I enjoy what I do and strive to become a better version of myself.
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yeonhee-cho&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 -->
+
+<br><br>
+
+<div align=center><h3>💻 Projects 💻</h3></div>
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>주제</th>
+      <th>구분</th>
+      <th>담당 역할</th>
+      <th>링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>머묾</td>
+      <td>검색 및 지도 기반 숙소 예약 어플리케이션</td>
+      <td>팀</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a><br />
+        🔗 <a href="https://onesto.re/0001004308">App Download</a>
+      </td>
+    </tr>
+    <tr>
+      <td>TicketNOW</td>
+      <td>사용자가 공연·전시·이벤트 티켓을 쉽고 빠르게 예매할 수 있도록 구현된<br>웹 기반 티켓 예매 서비스</td>
+      <td>팀</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/full-stack-bootcamp-team-project">Github</a><br />
+        🔗 <a href="http://43.201.71.58:8080/">Website</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Instagram Clone</td>
+      <td>인스타그램 웹사이트를 클론해서 만든 프로젝트</td>
+      <td>개인</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/yhcho-cho/instagram-clone">Github</a><br>
+        <!--🔗 <a href="">Website</a>-->
+      </td>
+    </tr>
+    <tr>
+      <td>Nover</td>
+      <td>무신사 웹 서비스를 분석하여<br>핵심 기능과 사용자 흐름을 재구성한 이커머스 클론 프로젝트</td>
+      <td>개인</td>
+      <td>프론트엔드<br>Front-end</td>
+      <td>
+        🔗 <a href="https://github.com/yeonhee-cho/style-commerce-web-feedback">Github</a><br>
+        🔗 <a href="https://nover-feedback.vercel.app/">Website</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br><br>
+<div align=center><h3>✉️ Contact Me ✉️</h3></div>
+<br>
+
+<div align="center">
+  <a href="mailto:yhcho.proj@gmail.com" style="border:0;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/yeonhee-cho" style="border:0;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+<!--
+  <a href="#" style="border:0;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="#" style="border:0;">
+    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
+-->
+</div>
+
+
