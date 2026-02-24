@@ -162,7 +162,7 @@ and I am committed to enhancing the technical value of services through clean co
     </tr>
     <tr>
       <td>TicketNOW</td>
-      <td>사용자가 공연·전시·이벤트 티켓을 쉽고 빠르게 예매할 수 있도록 구현된<br>웹 기반 티켓 예매 서비스</td>
+      <td>사용자가 공연·전시·이벤트 티켓을<br> 쉽고 빠르게 예매할 수 있도록 구현된<br>웹 기반 티켓 예매 서비스</td>
       <td>팀</td>
       <td>풀스택<br>Full-stack</td>
       <td>
