@@ -74,6 +74,7 @@ and I am committed to enhancing the technical value of services through clean co
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <br> 
   
   <h4> Tools </h4>
   <!-- Version Control -->
@@ -95,21 +96,19 @@ and I am committed to enhancing the technical value of services through clean co
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <br> 
   
-</p>
-<br><br>
-<div align=center><h3>🎨 DESIGN TOOLS 🎨</h3></div>
-<br>
-<div align=center>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20xd-%23FF61F6.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black">
-  <br>
-  <img src="https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black">
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-%23FF61F6.svg?&style=for-the-badge&logo=adobeindesign%20xd&logoColor=black">
+  <h4>DESIGN TOOLS</h4>
+  <div align=center>
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20xd-%23FF61F6.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=black">
+    <img src="https://img.shields.io/badge/Adobe%20InDesign-%23FF61F6.svg?&style=for-the-badge&logo=adobeindesign%20xd&logoColor=black">
+  </div>
 </div>
-
 <br><br>
 
 <div align="center">
