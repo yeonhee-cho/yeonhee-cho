@@ -176,7 +176,7 @@ and I am committed to enhancing the technical value of services through clean co
       <td>개인</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/yhcho-cho/instagram-clone">Github</a><br>
+        🔗 <a href="https://github.com/yeonhee-cho/instagram-clone">Github</a><br>
         <!--🔗 <a href="">Website</a>-->
       </td>
     </tr>
