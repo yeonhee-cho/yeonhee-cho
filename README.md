@@ -155,7 +155,7 @@ and I am committed to enhancing the technical value of services through clean co
       <td>팀</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a><br />
+        🔗 <a href="https://github.com/meomulm">Github</a><br />
         🔗 <a href="https://onesto.re/0001004308">App Download</a>
       </td>
     </tr>
