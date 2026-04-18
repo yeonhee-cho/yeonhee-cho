@@ -165,7 +165,7 @@ and I am committed to enhancing the technical value of services through clean co
       <td>팀</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/full-stack-bootcamp-team-project">Github</a><br />
+        🔗 <a href="https://github.com/ticket-now">Github</a><br />
         🔗 <a href="http://43.201.71.58:8080/">Website</a>
       </td>
     </tr>
