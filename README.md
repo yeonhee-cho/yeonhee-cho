@@ -8,14 +8,14 @@
 안녕하세요, 사용자 중심의 더 나은 경험을 설계하는 풀스택 개발자 <strong>조연희</strong>입니다!<br>
 요청부터 서버와 DB까지 이어지는 전체 처리 흐름을 바탕으로,<br> 안정적인 백엔드 시스템과 직관적인 UI/UX를 균형 있게 구현하는 과정에 큰 열정을 가지고 있습니다.<br>
 실제 운영 과정의 문제를 구조적으로 분석하여 개선하며,<br> 깔끔한 코드와 최적화된 설계를 통해 서비스의 기술적 가치를 높이기 위해 꾸준히 노력하고 있습니다.
-<br>
+<!-- <br>
 -- <br>
 <br>
 Hello, I'm Yeonhee, a Full-Stack Developer dedicated to designing better user experiences.<br>  
 I am passionate about balancing stable backend systems with intuitive UI/UX,<br> 
 grounded in a deep understanding of the entire data flow from requests to servers and databases.<br>  
 I focus on structurally analyzing and resolving real-world operational issues,<br> 
-and I am committed to enhancing the technical value of services through clean code and optimized architecture.<br>  
+and I am committed to enhancing the technical value of services through clean code and optimized architecture.<br>  -->
 </div>
 
 <br><br><br>
@@ -138,7 +138,7 @@ and I am committed to enhancing the technical value of services through clean co
 <br><br>
 
 <div align=center><h3>💻 Projects 💻</h3></div>
-<table>
+<table align=center>
   <thead>
     <tr>
       <th>프로젝트</th>
@@ -176,7 +176,7 @@ and I am committed to enhancing the technical value of services through clean co
       <td>풀스택<br>Full-stack</td>
       <td>
         🔗 <a href="https://github.com/yeonhee-cho/instagram-clone">Github</a><br>
-        <!--🔗 <a href="">Website</a>-->
+        🔗 <a href="https://insta-front-deploy.vercel.app">Website</a>
       </td>
     </tr>
     <tr>
